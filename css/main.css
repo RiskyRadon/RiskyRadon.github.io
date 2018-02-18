@@ -2245,7 +2245,7 @@ about-stats {
     color: #FFFFFF;
     position: relative;
     overflow: hidden;
-    text-overflow: ellipsis;
+    text-overflow: all;
     white-space: nowrap;
 }
 
@@ -2253,7 +2253,7 @@ about-stats {
     font-family: "montserrat-semibold", sans-serif;
     margin-top: 1.8rem;
     color: #000000;
-    font-size: 1.8rem;
+    font-size: 1.0rem;
     line-height: 1.333;
     position: relative;
 }
@@ -2369,8 +2369,8 @@ about-stats {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-    padding-top: 16.2rem;
-    padding-bottom: 13.2rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
     background-color: #FFFFFF;
     color: #757575;
     position: relative;
@@ -2381,7 +2381,7 @@ about-stats {
  * ## services list
  * ------------------------------------------------------------------- */
 .services-list {
-    margin-top: 6rem;
+    margin-top: 0rem;
 }
 
 .services-list .service-item {
